@@ -1,44 +1,20 @@
 # event6
 Kassel Code Meetup Tech Talk No.6 18.3.2015 http://www.meetup.com/KasselCodeMeetup/events/219931992/
-Vorträge
 
-Brain-Computer Interfaces mit OpenBCI: Den Start mit den Vorträgen machte Florian Friemel, der das Thema “Brain-Computer Interfaces mit OpenBCI” vorstellte. Es ging direkt mit einer Demo los, indem er Live ein EEG seines Gehirns zeigte. Man bekam einen guten Eindruck, wie weit Open-Hardware im medizinischen Bereich ist. Computer mit dem Gehirn zu steuern, ist damit wirklich nicht mehr weit entfernt. Zudem bekam man mit praktischen Beispielen von Patienten mit Locked-In Syndrom und Prothesen-Steuerung einen sehr plastischen Eindruck in das Thema.
+### Vorträge
 
-Mehr Infos unter:
+* Verteilte Dateisysteme - Matze
 
-http://www.openbci.com/
+Verteilte Dateisysteme sind ein Ansatz um vorhandene Speicherressourcen von unterschiedlichen Systemen in ein benutzbares Dateisystem zusammenzuführen. Dadurch können zum einen ungenutzte Ressourcen benutzt werden und zum anderen die Last für I/O im Netzwerk verteilt werden. Der Vortrag soll einen praktischen Einstieg in die Technologie bieten und am Beispiel von GlusterFS zeigen, wie mögliche Einsatzszenarien aussehen.
 
-https://github.com/florian-f/braindroid
+* LibGDX Gameengine - Tobi 
 
-http://florian-f.blogspot.de/
+libGDX ist eine Java, Multiplattform, Open Source, GameEngine, die 2D und 3D Spiele hochperformant unterstützt. Mit libGDX ist es dank einer hohen Abstraktionsstufe möglich ohne Anpassungen gleichzeitig Android(2,2+), iOS, HTML5, Windows, Linux, Mac OS X,und Blackberry Anwendungen zu deployen. Ich werde zeigen, wie schnell und einfach es ist mit hilfe von libGDX ein kleines Spiel zu entwickeln. 
 
+* Heimautomatisierung für Fußgänger - Martin 
 
- 
+Die angepriesenen Profi-Lösungen für das SmartHome sind zu teuer? Die ach so tollen Software-Lösungen wie OpenHAB sind uninteressant, weil dadurch ja immer noch keine Hardware da ist, die man steuern könnte? Willkommen in der Zielgruppe für diesen Talk. Im Vordergrund stehen low-cost Lösungen, die mit etwas technischem Sachverstand und Geschick, die eigene Wohnung dem "SmartHome" etwas näher bringen. 
 
-Polymer: Sandro stellt als zweiter mit Polymer einen Webkomponent-Framework vor. Das viel gewünschte Thema stieß auf großen Anklang bei den Entwicklern.
+### Allgemeine Slides
 
-Mehr Infos unter:
-
-https://www.polymer-project.org/
-
-http://webcomponents.org/
-
-http://customelements.io/
-
- 
-
-
- 
-
-Rapid Prototyping mit Spring Boot: Nach der Pizzapause räumte Waldemar mit dem Vorurteil auf, dass man mit Java keine schnellen Prototypen entwickeln kann. Mit Spring Boot zeigte er wie es moderner und schneller geht.
-
-Mehr Infos unter:
-
-https://github.com/codecentric/spring-boot-admin/
-
-http://jhipster.github.io/
-
-http://start.spring.io/
-
-
- 
+Available as [HTML file](slides-kassel-code-meetup-no-6.html) and [online](https://slides.com/madmuffin/kassel-code-meetup-no-6/)
